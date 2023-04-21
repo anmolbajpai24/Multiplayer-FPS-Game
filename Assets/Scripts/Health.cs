@@ -63,6 +63,6 @@ public class Health : MonoBehaviourPunCallbacks
 
     public void Update()
     {
-        Debug.Log(currentHealth);
+       // Debug.Log(currentHealth);
     }
 }
